@@ -1,4 +1,4 @@
-module github.com/Njakasoa/lol-ranked-chatbot
+module lol-ranked-chatbot
 
 go 1.12
 
