@@ -5,9 +5,10 @@ import (
 	"encoding/json"
 	"fmt"
 	"log"
-	"lol-ranked-chatbot/models"
 	"net/http"
 	"os"
+
+	"github.com/Njakasoa/lol-ranked-chatbot/models"
 )
 
 const (

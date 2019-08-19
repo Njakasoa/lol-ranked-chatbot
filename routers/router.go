@@ -1,7 +1,7 @@
 package routers
 
 import (
-	"lol-ranked-chatbot/controllers"
+	"github.com/Njakasoa/lol-ranked-chatbot/controllers"
 
 	"github.com/gorilla/mux"
 )
