@@ -1,0 +1,22 @@
+{
+	"ImportPath": "lol-ranked-chatbot",
+	"GoVersion": "go1.11",
+	"GodepVersion": "v80",
+	"Deps": [
+		{
+			"ImportPath": "github.com/gorilla/mux",
+			"Comment": "v1.7.3-5-ge67b3c0",
+			"Rev": "e67b3c02c7195c052acff13261f0c9fd1ba53011"
+		},
+		{
+			"ImportPath": "github.com/heroku/x/hmetrics",
+			"Comment": "v0.0.1-19-g26239ef",
+			"Rev": "26239efadbf90fd94c964a95dee17636598c6b21"
+		},
+		{
+			"ImportPath": "github.com/heroku/x/hmetrics/onload",
+			"Comment": "v0.0.1-19-g26239ef",
+			"Rev": "26239efadbf90fd94c964a95dee17636598c6b21"
+		}
+	]
+}
