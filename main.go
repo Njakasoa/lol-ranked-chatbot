@@ -5,7 +5,8 @@ import (
 	"net/http"
 	"os"
 
-	"github.com/Njakasoa/lol-ranked-chatbot/routers"
+	"lol-ranked-chatbot/routers"
+
 	_ "github.com/heroku/x/hmetrics/onload"
 )
 

@@ -8,7 +8,7 @@ import (
 	"net/http"
 	"os"
 
-	"github.com/Njakasoa/lol-ranked-chatbot/models"
+	"lol-ranked-chatbot/models"
 )
 
 const (
